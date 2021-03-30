@@ -8,3 +8,5 @@ again and again is very cumbersome. I will configure this extension more on my r
 2. It can be used in both firefox and chrome.
 
 
+- [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - Suggests values based on the field type.
+
